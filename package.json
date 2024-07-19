@@ -1,0 +1,26 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "main": "src/main/main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "webpack --mode production",
+    "dev": "webpack --mode development && electron ."
+  },
+  "dependencies": {
+    "electron": "^31.2.1",
+    "vue": "^3.4.33",
+    "csv-parser": "^3.0.0",
+    "puppeteer": "^22.13.1",
+    "puppeteer-with-fingerprints": "latest",
+    "inquirer": "^10.0.3"
+  },
+  "devDependencies": {
+    "webpack": "^5.93.0",
+    "webpack-cli": "^5.1.4",
+    "vue-loader": "^17.4.2",
+    "css-loader": "^7.1.2",
+    "style-loader": "^4.0.0",
+    "babel-loader": "^9.1.3"
+  }
+}

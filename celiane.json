@@ -1,0 +1,162 @@
+[
+  {
+    "command": "open",
+    "target": "https://www.legrand-jeu.fr/celiane/0/kqKMR/",
+    "value": ""
+  },
+  {
+    "command": "click",
+    "target": "id=cookies-banner-confirmation-button",
+    "value": "submit"
+  },
+  {
+    "command": "type",
+    "target": "id=lastname",
+    "value": "lastname"
+  },
+  {
+    "command": "type",
+    "target": "id=firstname",
+    "value": "firstname"
+  },
+  {
+    "command": "type",
+    "target": "id=email",
+    "value": "email"
+  },
+  {
+    "command": "click",
+    "target": "id=country",
+    "value": ""
+  },
+  {
+    "command": "click",
+    "target": "id=select_option_11",
+    "value": ""
+  },
+  {
+    "command": "click",
+    "target": "id=custom_790",
+    "value": ""
+  },
+  {
+    "command": "click",
+    "target": "id=select_option_6",
+    "value": ""
+  },
+  {
+    "command": "click",
+    "target": "xpath=//md-checkbox/div",
+    "value": ""
+  },
+  {
+    "command": "click",
+    "target": "xpath=//div[7]/form-d3-render-manager-v3/div/div/div/div/div/div[2]/div/div/div/div/md-input-container/md-checkbox/div",
+    "value": ""
+  },
+  {
+    "command": "click",
+    "target": "xpath=//button[@id='widget_8302050']/img",
+    "value": "submit"
+  },
+  {
+    "command": "open",
+    "target": "https://www.legrand-jeu.fr/celiane/0/JA9K5/",
+    "value": ""
+  },
+  {
+    "command": "click",
+    "target": "xpath=//button[@id='widget_8335277']/img",
+    "value": "submit"
+  },
+  {
+    "command": "open",
+    "target": "https://www.legrand-jeu.fr/celiane/0/RlPMv/",
+    "value": ""
+  },
+  {
+    "command": "click",
+    "target": "id=widget_8302082",
+    "value": ""
+  },
+  {
+    "command": "click",
+    "target": "id=widget_8302082",
+    "value": ""
+  },
+  {
+    "command": "click",
+    "target": "id=widget_8302082",
+    "value": ""
+  },
+  {
+    "command": "click",
+    "target": "id=widget_8302082",
+    "value": ""
+  },
+  {
+    "command": "click",
+    "target": "id=widget_8302082",
+    "value": ""
+  },
+  {
+    "command": "click",
+    "target": "id=widget_8335280",
+    "value": ""
+  },
+  {
+    "command": "click",
+    "target": "id=widget_8302082",
+    "value": ""
+  },
+  {
+    "command": "click",
+    "target": "id=widget_8302082",
+    "value": ""
+  },
+  {
+    "command": "click",
+    "target": "id=widget_8302082",
+    "value": ""
+  },
+  {
+    "command": "click",
+    "target": "id=widget_8302082",
+    "value": ""
+  },
+  {
+    "command": "click",
+    "target": "id=widget_8302082",
+    "value": ""
+  },
+  {
+    "command": "click",
+    "target": "id=widget_8302082",
+    "value": ""
+  },
+  {
+    "command": "click",
+    "target": "id=widget_8335280",
+    "value": "submit"
+  },
+  {
+    "command": "open",
+    "target": "https://www.legrand-jeu.fr/celiane/0/azBXG/",
+    "value": ""
+  },
+  {
+    "command": "click",
+    "target": "xpath=//button[@id='widget_8476992']/img",
+    "value": "submit"
+  },
+  {
+    "command": "printtext",
+    "target": "xpath=//div[@id='main-container-wrapper']",
+    "value": ""
+  },
+  {
+    "command": "open",
+    "target": "https://www.legrand-jeu.fr/celiane/0/EKGLY/",
+    "value": ""
+  }
+]
